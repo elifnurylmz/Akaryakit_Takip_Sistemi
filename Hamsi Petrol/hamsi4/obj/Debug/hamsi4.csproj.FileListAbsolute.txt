@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\hamsi4\hamsi4\bin\Debug\hamsi4.exe.config
+C:\Users\PC\source\repos\hamsi4\hamsi4\bin\Debug\hamsi4.exe
+C:\Users\PC\source\repos\hamsi4\hamsi4\bin\Debug\hamsi4.pdb
+C:\Users\PC\source\repos\hamsi4\hamsi4\obj\Debug\hamsi4.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\hamsi4\hamsi4\obj\Debug\hamsi4.Form1.resources
+C:\Users\PC\source\repos\hamsi4\hamsi4\obj\Debug\hamsi4.Properties.Resources.resources
+C:\Users\PC\source\repos\hamsi4\hamsi4\obj\Debug\hamsi4.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\hamsi4\hamsi4\obj\Debug\hamsi4.exe
+C:\Users\PC\source\repos\hamsi4\hamsi4\obj\Debug\hamsi4.pdb
+C:\Users\PC\source\repos\hamsi4\hamsi4\obj\Debug\hamsi4.Form2.resources
